@@ -16,7 +16,7 @@
 ## 🛠️ Languages & Tools
 
 ### **Programming Languages**
-![Languages](https://skillicons.dev/icons?i=JavaScript,PHP,java)
+![Languages](https://skillicons.dev/icons?i=js,php,java,python,sql)
 
 ### **Frontend**
 ![Frontend](https://skillicons.dev/icons?i=html,css,JavaScript)
