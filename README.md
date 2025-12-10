@@ -48,12 +48,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aachal121-code&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://streak-stats.demolab.com?user=Aachal121-code&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aachal121-code&show_icons=true&theme=tokyonight" height="160">
+  <img src="https://streak-stats.demolab.com/?user=Aachal121-code&theme=tokyonight" height="160">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aachal121-code&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aachal121-code&layout=compact&theme=tokyonight">
 </p>
 
 
@@ -61,7 +61,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aachal121-code&theme=algolia&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aachal121-code&theme=algolia&no-frame=true&margin-w=15">
 </p>
 
 ---
