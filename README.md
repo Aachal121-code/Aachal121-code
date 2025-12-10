@@ -19,33 +19,43 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logoColor=white)
 
 ### **Frontend**
-![Frontend](https://skillicons.dev/icons?i=html,css,JavaScript)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=white)
 
 ### **Backend**
-![Backend](https://skillicons.dev/icons?i=PHP,Java)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white)
 
 ### **Database**
-![Database](https://skillicons.dev/icons?i=sql,mysql,Oracle)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=white)
 
 ### **Tools**
-![Tools](https://skillicons.dev/icons?i=git,github,VSCode,Scrum,Jira)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white)
+
+### 📋 Project Management / QA
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aachal121-code&show_icons=true&theme=react" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aachal121-code&theme=react" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aachal121-code&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Aachal121-code&theme=tokyonight" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aachal121-code&layout=compact&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aachal121-code&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
