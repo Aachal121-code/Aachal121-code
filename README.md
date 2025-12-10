@@ -47,7 +47,9 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+![GitHub Profile Card](https://animated-profile-stats.vercel.app/api/card?username=YOUR_USERNAME&type=fire)
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aachal121-code&show_icons=true&theme=tokyonight" height="160">
   <img src="https://streak-stats.demolab.com/?user=Aachal121-code&theme=tokyonight" height="160">
 </p>
@@ -57,12 +59,12 @@
 </p>
 
 
----
+--- -->
 
 ## 🏆 GitHub Trophies
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aachal121-code&theme=algolia&no-frame=true&margin-w=15">
-</p>
+</p> -->
 
 ---
 
