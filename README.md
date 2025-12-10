@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **- 🔭 Working on **RemindMe** — an expiry reminder system (JS, PHP, SQL)**
+- 🔭 I’m currently working on **RemindMe** — an expiry reminder system (JS, PHP, SQL)**
 - 🌱 I’m currently learning **better ways to integrate JavaScript, PHP, and SQL for full-stack projects**
 - 👯 I’m looking to collaborate on **open-source and team projects**
 - 💬 Ask me about **web development and manual testing**
