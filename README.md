@@ -16,7 +16,11 @@
 ## 🛠️ Languages & Tools
 
 ### **Programming Languages**
-![Languages](https://skillicons.dev/icons?i=js,php,java,python,sql)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge)
 
 ### **Frontend**
 ![Frontend](https://skillicons.dev/icons?i=html,css,JavaScript)
