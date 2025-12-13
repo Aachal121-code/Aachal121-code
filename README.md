@@ -67,7 +67,7 @@
 
 ## 🔗 Connect With Me
 <p>
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/aachal-bhonde-a028b9318/](https://www.linkedin.com/in/aachal-bhonde-a028b9318/)"><img src="https://skillicons.dev/icons?i=linkedin" width="48"></a>
+<a href="https://www.linkedin.com/in/aachal-bhonde-a028b9318/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"></a>
 <!-- <a href="https://instagram.com/YOUR_INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" width="48"></a>
 </p> -->
 
