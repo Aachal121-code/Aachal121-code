@@ -75,8 +75,9 @@
 
 ## ⭐ Featured Projects
 - 🔹 [Saucedemo-QA-project](https://github.com/Aachal121-code/qa-saucedemo-project)
+- 🔹 [RemindMe](https://github.com/Aachal121-code/remindme)
+- 🔹 [Imation](https://github.com/Aachal121-code/imation)
 - 🔹 [Currency Converter](https://github.com/Aachal121-code/Currency-Converter)
-- 🔹 [Fruitmart-Fruit selling static website ](https://github.com/Aachal121-code/FruitMart)
 
 ---
 
