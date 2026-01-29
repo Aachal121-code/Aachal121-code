@@ -47,26 +47,18 @@
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logoColor=white)
 
 ---
+## 📊 GitHub Activity
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aachal121-code&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Aachal121-code&theme=radical)
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aachal121-code&show_icons=true&theme=tokyonight" height="160">
-  <img src="https://streak-stats.demolab.com/?user=Aachal121-code&theme=tokyonight" height="160">
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aachal121-code&layout=compact&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aachal121-code&layout=compact&theme=tokyonight">
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aachal121-code&theme=react-dark)
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aachal121-code&theme=radical)
 
----
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aachal121-code&theme=algolia&no-frame=true&margin-w=15">
-</p> 
-
---- -->
+--- 
 
 ## 🔗 Connect With Me
 <p>
