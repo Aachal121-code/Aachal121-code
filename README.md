@@ -49,11 +49,13 @@
 ---
 ## 🚀 GitHub Activity
 
-![Overall Progress](https://progress-bar.dev/35/?title=Overall%20Progress)
-![Learning](https://progress-bar.dev/60/?title=Learning)
-![Projects](https://progress-bar.dev/25/?title=Projects)
+![Commits](https://img.shields.io/badge/Commits-30%25-blue?style=for-the-badge)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aachal121-code&theme=minimal&hide_title=true)
+![Consistency](https://img.shields.io/badge/Consistency-40%25-purple?style=for-the-badge)
+
+![Learning](https://img.shields.io/badge/Learning-60%25-success?style=for-the-badge)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aachal121-code&theme=react-dark&hide_title=true)
 
 --- 
 
