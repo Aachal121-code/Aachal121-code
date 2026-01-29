@@ -32,19 +32,19 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logoColor=white)
 
 ### **Database**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-8A2BE2?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 
 ### 📋 Project Management / QA
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-009FDA?style=for-the-badge&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logoColor=white)
 
 ---
 
