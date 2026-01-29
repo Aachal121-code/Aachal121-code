@@ -49,6 +49,11 @@
 ---
 ## 🚀 GitHub Activity
 
+![Commits](https://img.shields.io/badge/Commits-30%25-blue?style=for-the-badge)
+![Consistency](https://img.shields.io/badge/Consistency-40%25-purple?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-60%25-success?style=for-the-badge)
+
+
 ![Commits](https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge)
 
 ![GitHub](https://img.shields.io/badge/GitHub-Aachal121--code-black?style=for-the-badge&logo=github)
