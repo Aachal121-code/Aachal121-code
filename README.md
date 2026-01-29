@@ -49,8 +49,11 @@
 ---
 ## 🚀 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aachal121-code&show_icons=true&hide_title=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=Aachal121-code&hide_title=true)
+![Commits](https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge)
+
+![GitHub](https://img.shields.io/badge/GitHub-Aachal121--code-black?style=for-the-badge&logo=github)
+
+![Contributions](https://img.shields.io/badge/Contributions-Regular-blue?style=for-the-badge)
 
 
 --- 
