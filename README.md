@@ -52,11 +52,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aachal121-code&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aachal121-code&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aachal121-code&layout=compact&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aachal121-code&theme=react-dark)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aachal121-code&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aachal121-code&theme=react-dark&hide_title=true)
 
 --- 
 
