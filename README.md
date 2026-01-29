@@ -39,6 +39,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logoColor=white)
+![Intellij](https://img.shields.io/badge/VS%20Code-008ACC?style=for-the-badge&logoColor=white)
 
 ### 📋 Project Management / QA
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logoColor=white)
