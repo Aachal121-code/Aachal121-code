@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **RemindMe — an expiry reminder system (JS, PHP, SQL)**
+- 🔭 I’m currently working on **RenewMe — an expiry reminder system (JS, PHP, SQL)**
 - 🌱 I’m currently learning **better ways to integrate JavaScript, PHP, and SQL for full-stack projects**
 - 👯 I’m looking to collaborate on **open-source and team projects**
 - 💬 Ask me about **web development and manual testing**
@@ -68,9 +68,9 @@
 ---
 
 ## ⭐ Featured Projects
-- 🔹 [Saucedemo-QA-project](https://github.com/Aachal121-code/qa-saucedemo-project)
-- 🔹 [RemindMe](https://github.com/Aachal121-code/remindme)
+- 🔹 [RenewMe](https://github.com/Aachal121-code/renewme)
 - 🔹 [Imation](https://github.com/Aachal121-code/imation)
+- 🔹 [Saucedemo-QA-project](https://github.com/Aachal121-code/qa-saucedemo-project)
 - 🔹 [Currency Converter](https://github.com/Aachal121-code/Currency-Converter)
 
 ---
